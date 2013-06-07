@@ -1,6 +1,7 @@
 2010-CCR
 ========
 Workflow:
+
 1. Am descărcat de pe site-ul CCR deciziile în format DOC.
 
 2. redenumire-reflow-2010.pl a fost folosit pentru schimbarea denumirii fişierelor DOC iniţiale în ceva mai ordonat.
