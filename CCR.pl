@@ -1,9 +1,5 @@
 #!/usr/bin/perl -w
 
-#Copyright Filip Gadiuta 2009
-#v.010 este cea din ianuarie 2008
-#v.011 este in lucru
-
 #Curatare folder de lucru 99TEST (de adaptat la nevoie)
 @desters = glob('c:\Users\Filip\Documents\Perl\Teste\99TEST\*.xml');
 foreach $junk (@desters) {
