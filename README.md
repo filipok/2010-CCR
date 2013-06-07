@@ -1,6 +1,6 @@
 2010-CCR
 ========
-Workflow:
+Workflow
 
 1. Am descărcat de pe site-ul CCR deciziile în format DOC.
 
