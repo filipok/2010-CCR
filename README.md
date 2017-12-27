@@ -2,7 +2,7 @@
 ========
 Workflow (EN)
 
-1. The decisions weere downloaded from the website of the Romanian Constitutional Court (CCR) in the DOC format.
+1. The decisions were downloaded from the website of the Romanian Constitutional Court (CCR) in the DOC format.
 
 2. redenumire-reflow-2010.pl was used to rename the above DOC files in a more systematic manner.
 
